@@ -1,1 +1,1 @@
-To jest zawarosc pliku A.
+To jest zmieniona zawarosc pliku A.
